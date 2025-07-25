@@ -1,1 +1,1 @@
-# react-todo
+# Simple ToDo List
