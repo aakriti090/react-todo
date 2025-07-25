@@ -8,7 +8,7 @@ This is a simple and beginner-friendly To-Do List web app built using **React.js
 
 - Add new tasks
 - Mark tasks as complete or undo them
-- 🗑Delete tasks
+- Delete tasks
 - Data saved with `localStorage`
 
 ---
@@ -21,12 +21,3 @@ This is a simple and beginner-friendly To-Do List web app built using **React.js
 - LocalStorage
 
 ---
-
-## How to Run Locally
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/aakriti090/react-todo.git
-cd react-todo
-
